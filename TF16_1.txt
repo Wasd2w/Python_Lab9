@@ -1,0 +1,5 @@
+Hello world!
+This is a sample text file.
+Words with vowels will be extracted.
+Some words will have special characters!
+Develop a program.
